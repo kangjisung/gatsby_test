@@ -1,0 +1,73 @@
+import React from 'react';
+import { Link } from "gatsby"
+
+import WhiteLogo from "../../assets/images/white-logo.png"
+import ShapeImg from "../../assets/images/home-8-9-10/footer/shape.png"
+
+const FooterStyle2 = () => {
+    const currentYear = new Date().getFullYear();
+    return (
+        <footer className="footer-area">
+            <div className="container">
+                <div className="row">
+                    <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="single-footer-widget">
+                            <Link to="/" className="logo">
+                                PLAYFIN
+                            </Link>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+
+                            <ul className="social-link">
+                                <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
+                                <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="single-footer-widget">
+                            <h3>Address</h3>
+
+                            <ul className="footer-contact-info">
+                                <li>
+                                    <i className='bx bx-map'></i> 
+                                    21, Baekbeom-ro 31-gil, Mapo-gu, Seoul
+                                </li>
+                                <li>
+                                    <i className='bx bx-envelope'></i>
+                                    <a href="mailto:connecton.official@gmail.com">connecton.official@gmail.com</a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="footer-bottom-area">
+                    <div className="row align-items-center">
+                        <div className="col-lg-6 col-md-6">
+                            <p><i className='bx bx-copyright'></i>{currentYear} <strong>Mibix</strong> is Proudly Powered by <a target="_blank" href="https://envytheme.com/">EnvyTheme</a></p>
+                        </div>
+
+                        <div className="col-lg-6 col-md-6">
+                            <ul>
+                                <li>
+                                    <Link to="/privacy-policy">Privacy Policy</Link>
+                                </li>
+                                <li>
+                                    <Link to="/terms-of-service">Terms & Conditions</Link>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className="shape16">
+                <img src={ShapeImg} alt="Shape" />
+            </div>
+        </footer>
+    );
+}
+
+export default FooterStyle2;
