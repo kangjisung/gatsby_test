@@ -13,7 +13,7 @@ const FooterStyle2 = () => {
                     <div className="col-lg-4 col-md-6 col-sm-6">
                         <div className="single-footer-widget">
                             <Link to="/" className="logo">
-                                PLAYFIN
+                                <h3>CONNECT</h3>
                             </Link>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
 
@@ -46,18 +46,7 @@ const FooterStyle2 = () => {
                 <div className="footer-bottom-area">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
-                            <p><i className='bx bx-copyright'></i>{currentYear} <strong>Mibix</strong> is Proudly Powered by <a target="_blank" href="https://envytheme.com/">EnvyTheme</a></p>
-                        </div>
-
-                        <div className="col-lg-6 col-md-6">
-                            <ul>
-                                <li>
-                                    <Link to="/privacy-policy">Privacy Policy</Link>
-                                </li>
-                                <li>
-                                    <Link to="/terms-of-service">Terms & Conditions</Link>
-                                </li>
-                            </ul>
+                            <p>Copyright <i className='bx bx-copyright'></i>{currentYear} <strong>CONNECT</strong> Inc. All rights reserved.</p>
                         </div>
                     </div>
                 </div>

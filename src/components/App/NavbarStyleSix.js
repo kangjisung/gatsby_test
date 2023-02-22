@@ -51,7 +51,7 @@ const NavbarStyleFour = () => {
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <Link to="/" onClick={toggleNavbar} className="navbar-brand">
-                                PLAYFIN
+                                <h1>PLAYFIN</h1>
                             </Link>
 
                         </nav>
