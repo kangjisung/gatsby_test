@@ -25,7 +25,7 @@ Flaticon icon font: Flaticon
 }
 
 .flaticon-email-marketing:before { content: "\f100"; }
-.flaticon-next-button:before { content: "\f101"; }
+.flaticon-next-button:before { url:"../fonts/apple.svg" }
 .flaticon-back-arrow:before { content: "\f102"; }
 .flaticon-plus:before { content: "\f103"; }
 .flaticon-minus:before { content: "\f104"; }
