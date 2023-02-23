@@ -13,7 +13,7 @@ const TeamMember = () => {
                 <div className="container">
                     <div className="section-title with-gradient-color">
                         <span className="sub-title">OUR TEAM</span>
-                        <h2>We Help to Acheive Your Business Goal</h2> x
+                        <h2>We Help to Acheive Your Business Goal</h2>
                     </div>
 
                     <div className="row justify-content-center">
