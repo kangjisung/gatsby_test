@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from "gatsby"
 
-import BlogPotImg1 from "../../assets/images/home-8-9-10/blog/blog-page-1.png";
-import BlogPotImg2 from "../../assets/images/home-8-9-10/blog/blog-page-2.png";
-import BlogPotImg3 from "../../assets/images/home-8-9-10/blog/blog-page-3.png";
+import BlogPotImg1 from "../../assets/images/home-8-9-10/blog/blog-1.png";
+import BlogPotImg2 from "../../assets/images/home-8-9-10/blog/blog-2.png";
+import BlogPotImg3 from "../../assets/images/home-8-9-10/blog/blog-3.png";
 
 import AuthorImg1 from "../../assets/images/home-8-9-10/blog/image-1.png";
 import AuthorImg2 from "../../assets/images/home-8-9-10/blog/image-2.png";
@@ -41,7 +41,7 @@ const BlogPost = () => {
                                             <h5>FINANCIER(Colin)</h5>
                                         </div>
                                         <div className="info-date">
-                                            <span><i className='bx bxs-calendar'></i> January 20, 2022</span>
+                                            <span><i className='bx bxs-calendar'></i> February 3, 2023</span>
                                         </div>
                                     </div>
                                 </div>
@@ -68,7 +68,7 @@ const BlogPost = () => {
                                             <h5>FINANCIER(Blair)</h5>
                                         </div>
                                         <div className="info-date">
-                                            <span><i className='bx bxs-calendar'></i> January 20, 2022</span>
+                                            <span><i className='bx bxs-calendar'></i> February 3, 2023</span>
                                         </div>
                                     </div>
                                 </div>
@@ -95,7 +95,7 @@ const BlogPost = () => {
                                             <h5>FINANCIER(Ian)</h5>
                                         </div>
                                         <div className="info-date">
-                                            <span><i className='bx bxs-calendar'></i> January 20, 2022</span>
+                                            <span><i className='bx bxs-calendar'></i> February 3, 2023</span>
                                         </div>
                                     </div>
                                 </div>
