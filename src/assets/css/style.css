@@ -9639,7 +9639,10 @@ New Demo CSS
 .pb-75 {
   padding-bottom: 75px;
 }
-
+.mdi-36px {
+  font-size: 39px;
+  margin-right:10px;
+}
 .section-title.with-gradient-color h2 {
   background: -webkit-gradient(linear, right top, left top, from(#04c8eb), color-stop(#00aff3), color-stop(#0092f6), color-stop(#0071ed), to(#5945d2));
   background: linear-gradient(to left, #04c8eb, #00aff3, #0092f6, #0071ed, #5945d2);
@@ -9694,6 +9697,9 @@ New Demo CSS
 }
 
 .dibiz-new-navbar-area .main-nav .navbar .navbar-nav .nav-item a {
+  color: var(--whiteColor);
+}
+.navbar h1 {
   color: var(--whiteColor);
 }
 
@@ -11810,7 +11816,7 @@ New Demo CSS
   font-weight: 700;
 }
 
-.dibiz-subscribe-content h2 {
+.dibiz-subscribe-content  {
   margin-bottom: 0;
   font-size: 42px;
   background: -webkit-gradient(linear, right top, left top, from(#04c8eb), color-stop(#00aff3), color-stop(#0092f6), color-stop(#0071ed), to(#5945d2));

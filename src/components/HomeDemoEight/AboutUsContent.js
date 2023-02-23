@@ -18,7 +18,7 @@ const AboutUsContent = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="dibiz-about-content">
                                 <span>ABOUT US</span>
-                                <h3>Enjoy Full-Service Digital Marketing Expertise</h3>
+                                <h3>금융을 기술로 이야기하는 핀테크 스타트업 CONNECT입니다.</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
 
                                 <ul className="about-list">

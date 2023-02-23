@@ -18,7 +18,18 @@ const MainBanner = () => {
                                 <p>지루하고 어렵기만 한 금융은 이제 그만! 메타버스 금융생활 플랫폼 ‘플레이핀’에서 쉽고 재미있게 배우는 금융을 만나보세요.</p>
                                 <div className="btn-box">
                                     <Link to="/contact" className="default-btn-with-radius">
-                                        Get Started <i className="flaticon-next-button"></i>
+                                        <i class="fa fa-apple btn-icon-prepend mdi-36px"></i>
+                                        <span class="d-inline-white text-left">
+                                            <small class="font-weight-light d-white">Available on the</small>
+                                            App Store
+                                        </span>
+                                    </Link>
+                                    <Link to="/contact" className="default-btn-with-radius">
+                                        <i class="fa fa-android btn-icon-prepend mdi-36px"></i>
+                                        <span class="d-inline-white text-left">
+                                            <small class="font-weight-light d-white">Get it on the</small>
+                                            Google Play
+                                        </span>
                                     </Link>
                                 </div>
                             </div>
