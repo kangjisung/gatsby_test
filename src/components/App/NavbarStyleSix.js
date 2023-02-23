@@ -11,7 +11,7 @@ import InstagramImg4 from "../../assets/images/team/team-img4.jpg"
 import InstagramImg5 from "../../assets/images/team/team-img5.jpg"
 import InstagramImg6 from "../../assets/images/team/team-img6.jpg"
 
-const NavbarStyleFour = () => {
+const NavbarStyleSix = () => {
     const [menu, setMenu] = React.useState(true)
  
     const toggleNavbar = () => {
@@ -51,7 +51,7 @@ const NavbarStyleFour = () => {
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <Link to="/" onClick={toggleNavbar} className="navbar-brand">
-                                <h1>PLAYFIN</h1>
+                                <h1 style="color:white">PLAYFIN</h1>
                             </Link>
 
                         </nav>
@@ -62,4 +62,4 @@ const NavbarStyleFour = () => {
     );
 }
 
-export default NavbarStyleFour;
+export default NavbarStyleSix;

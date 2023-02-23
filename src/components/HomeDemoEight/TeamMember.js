@@ -24,7 +24,7 @@ const TeamMember = () => {
 
                                     <ul className="social-link">
                                         
-                                        <li><a href="https://www.linkedin.com/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/youngmk19/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
                                     </ul>
                                 </div>
                                 <div className="team-content">
@@ -41,12 +41,12 @@ const TeamMember = () => {
 
                                     <ul className="social-link">
                                         
-                                        <li><a href="https://www.linkedin.com/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/realizer21c/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
                                     </ul>
                                 </div>
                                 <div className="team-content">
                                     <h3>Blair</h3>
-                                    <span>CCO</span>
+                                    <span>COO</span>
                                 </div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@ const TeamMember = () => {
 
                                     <ul className="social-link">
                                         
-                                        <li><a href="https://www.linkedin.com/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/kangjisung/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
                                     </ul>
                                 </div>
                                 <div className="team-content">

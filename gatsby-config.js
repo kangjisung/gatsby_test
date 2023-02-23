@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: `Mibix - Technology & Digital Agency Startup Gatsby Template`,
-        description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+        title: `플레이핀`,
+        description: `금융을 경험해 보세요`,
         author: `@envy_theme`,
     },
     plugins: [

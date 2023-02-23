@@ -19,7 +19,7 @@ import FooterStyle2 from '../components/App/FooterStyle2';
 const HomeEight = () => {
     return (
         <Layout>
-            <SEO title="Home Eight" />
+            <SEO title="playfin" />
 
             <NavbarStyleSix />
 
@@ -36,6 +36,8 @@ const HomeEight = () => {
             <TeamMember />
 
             <TestimonialStyleThree />
+
+            <Pricing />
 
             <BlogPost />
  

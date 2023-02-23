@@ -13,13 +13,13 @@ const FooterStyle2 = () => {
                     <div className="col-lg-4 col-md-6 col-sm-6">
                         <div className="single-footer-widget">
                             <Link to="/" className="logo">
-                                <h3>CONNECT</h3>
+                                <h3>playfin</h3>
                             </Link>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                            <p>안녕하세요</p>
 
                             <ul className="social-link">
-                                <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
-                                <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
+                                <li><a href="https://www.instagram.com/financier.official/" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/플래잇/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ const FooterStyle2 = () => {
                             <ul className="footer-contact-info">
                                 <li>
                                     <i className='bx bx-map'></i> 
-                                    21, Baekbeom-ro 31-gil, Mapo-gu, Seoul
+                                    서울특별시 마포구 공덕동 백범로31길 21
                                 </li>
                                 <li>
                                     <i className='bx bx-envelope'></i>
