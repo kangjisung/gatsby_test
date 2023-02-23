@@ -51,7 +51,7 @@ const NavbarStyleSix = () => {
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <Link to="/" onClick={toggleNavbar} className="navbar-brand">
-                                <h1 style="color:white">PLAYFIN</h1>
+                                <h1>PLAYFIN</h1>
                             </Link>
 
                         </nav>
