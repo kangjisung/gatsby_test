@@ -14,10 +14,10 @@ const MainBanner = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="new-main-banner-content">
                                 <span className="sub-title">금융을 플레이하다</span>
-                                <h1>아이부터 어른까지 모두가 즐기는 똑똑하고 슬기로운 금융생활</h1>
+                                <h2>아이부터 어른까지 모두가 즐기는 똑똑하고 슬기로운 금융생활</h2>
                                 <p>지루하고 어렵기만 한 금융은 이제 그만! 메타버스 금융생활 플랫폼 ‘플레이핀’에서 쉽고 재미있게 배우는 금융을 만나보세요.</p>
                                 <div className="btn-box">
-                                    <img src='/assets/fonts/apple.svg'/>
+                                    <img src='/assets/fonts/apple2.png'/>
                                     <Link to="/contact" className="default-btn-with-radius">
                                         Google Play <i className="flaticon-next-button"></i>
                                     </Link>
