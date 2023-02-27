@@ -4,8 +4,8 @@ import { Link } from "gatsby"
 import BannerImg from "../../assets/images/home-8-9-10/banner/banner.png";
 import BannerShape1 from "../../assets/images/home-8-9-10/banner/shape-1.png";
 import BannerShape2 from "../../assets/images/home-8-9-10/banner/shape-2.png";
-import apple from "../../assets/fonts/apple.svg";
-import apple2 from "../../assets/fonts/apple2.png";
+import Apple from "../../assets/fonts/apple.svg";
+import Google from "../../assets/fonts/google.png";
 
 const MainBanner = () => {
     return (
@@ -19,11 +19,9 @@ const MainBanner = () => {
                                 <h2>아이부터 어른까지 모두가 즐기는 똑똑하고 슬기로운 금융생활</h2>
                                 <p>지루하고 어렵기만 한 금융은 이제 그만! 메타버스 금융생활 플랫폼 ‘플레이핀’에서 쉽고 재미있게 배우는 금융을 만나보세요.</p>
                                 <div className="btn-box">
-                                    <img src={apple}/>
-                                    <img src={apple2}/>
-                                    <Link to="/contact" className="default-btn-with-radius">
-                                        Google Play <i className="flaticon-next-button"></i>
-                                    </Link>
+                                    <img src={Apple}/>
+                                    <img src={Google}/>
+                                    
                                 </div>
                             </div>
                         </div>
