@@ -5,7 +5,7 @@ import BannerImg from "../../assets/images/home-8-9-10/banner/banner.png";
 import BannerShape1 from "../../assets/images/home-8-9-10/banner/shape-1.png";
 import BannerShape2 from "../../assets/images/home-8-9-10/banner/shape-2.png";
 import Apple from "../../assets/fonts/apple.svg";
-import Google from "../../assets/fonts/google.png";
+import Google from "../../assets/fonts/google.svg";
 
 const MainBanner = () => {
     return (
