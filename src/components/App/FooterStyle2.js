@@ -38,21 +38,7 @@ const FooterStyle2 = () => {
                             </ul>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-md-6 col-sm-6">
-                        <div className="single-footer-widget">
-                            <h3> </h3>
-
-                            <ul className="footer-contact-info">
-                                <li>
-                                     
-                                </li>
-                                <li>
-                                    
-                                </li>
-                                
-                            </ul>
-                        </div>
-                    </div>
+                    
                     <div className="col-lg-4 col-md-6 col-sm-6">
                         <div className="single-footer-widget">
                             <h3>Address</h3>

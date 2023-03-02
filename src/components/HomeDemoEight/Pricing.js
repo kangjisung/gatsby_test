@@ -17,12 +17,12 @@ const Pricing = () => {
                             <div className="dibiz-pricing-card">
                                 <div className="pricing-header">
                                     <h3>SERVICE 1</h3>
-                                    
+                                    <span>메타버스 금융생활 플랫폼</span>
                                 </div>
                                 <div className="pricing-price">
-                                <span>메타버스 금융생활 플랫폼</span><br/>플레이핀<span>금융을 플레이하다</span><br/><span>플레이핀은 가상공간에서의 금융활동을 경험함으로써 고객이 실생활에서의 금융선택 및 활동에 보다 유연하게 대응할 수 있도록 하기 위해 만들어졌습니다. 플레이핀은 각종 금융콘텐츠를 경험할 수 있는 곳이며, 다른 참여자들과의 관계 맺기를 통한 소셜 커뮤니티 기능까지 포함되어 있습니다.</span>
+                                플레이핀<br/><span>금융을 플레이하다</span>
                                 </div>
-                                
+                                <span>플레이핀은 가상공간에서의 금융활동을 경험함으로써 고객이 실생활에서의 금융선택 및 활동에 보다 유연하게 대응할 수 있도록 하기 위해 만들어졌습니다. 플레이핀은 각종 금융콘텐츠를 경험할 수 있는 곳이며, 다른 참여자들과의 관계 맺기를 통한 소셜 커뮤니티 기능까지 포함되어 있습니다.</span>
                                 {/* <ul className="pricing-list">
                                     <li><i className='bx bx-check'></i> 10GB Bandwidth Internet</li>
                                     <li><i className='bx bx-check'></i> Business & Financ Analysing</li>
