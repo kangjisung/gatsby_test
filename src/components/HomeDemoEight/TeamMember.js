@@ -13,7 +13,7 @@ const TeamMember = () => {
                 <div className="container">
                     <div className="section-title with-gradient-color">
                         <span className="sub-title">OUR TEAM</span>
-                        <h2>We Help to Acheive Your Business Goal</h2>
+                        <h2>금융의 힘, 금융의 가치, 금융의 미래에 대해 생각하는 사람들이 모였습니다.</h2>
                     </div>
 
                     <div className="row justify-content-center">

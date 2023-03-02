@@ -16,9 +16,9 @@ const BlogPost = () => {
             <div className="dibiz-blog-area pt-100 pb-75">
                 <div className="container">
                     <div className="section-title with-gradient-color">
-                        <span className="sub-title">OUR BLOG</span>
-                        <h2>Our Latest Media</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <span className="sub-title">OUR INSTAGRAM</span>
+                        <h2>피낭시에 엿보기</h2>
+                        <p>맛있는 금융을 전해드립니다.</p>
                     </div>
 
                     <div className="row justify-content-center">
