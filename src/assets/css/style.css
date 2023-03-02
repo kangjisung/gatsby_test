@@ -11184,9 +11184,33 @@ New Demo CSS
   -webkit-transition: var(--transition);
   transition: var(--transition);
 }
-
+.pricing-header h3 i(
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  font-size: 15px;
+  background-color: var(--whiteColor);
+  color: var(--mainColor);
+  text-align: center;
+  border-radius: 50px;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+)
+.pricing-header h3:hover i(
+  background-color: var(--mainColor);
+  color: var(--whiteColor);
+)
 .dibiz-pricing-card .pricing-header {
   margin-bottom: 20px;
+}
+
+.dibiz-pricing-card .pricing-header span{
+  color: var(--whiteColor)
 }
 
 .dibiz-pricing-card .pricing-header h3 {

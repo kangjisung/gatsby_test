@@ -16,7 +16,7 @@ const Pricing = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="dibiz-pricing-card">
                                 <div className="pricing-header">
-                                    <h3>SERVICE 1</h3>
+                                    <h3><i className='bx bx-check'></i>SERVICE 1</h3>
                                     <span>메타버스 금융생활 플랫폼</span>
                                 </div>
                                 <div className="pricing-price">
@@ -41,12 +41,13 @@ const Pricing = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="dibiz-pricing-card active">
                                 <div className="pricing-header">
-                                    <h3>SERVICE 2</h3>
-                                    
+                                    <h3><i className='bx bx-check'></i>SERVICE 2</h3>
+                                    <span>똑똑한 카드사용습관</span>
                                 </div>
                                 <div className="pricing-price">
-                                <span>똑똑한 카드사용습관</span><br/>굿샤일록<br/> <span>카드 사용을 통한 행동 변화</span><br/><span>현대사회에서 사용하지 않을 수 없는 체크/선불/신용카드의 사용을 통해 개인의 행동 및 습관 변화를 유도하고, 나아가 세상에 이로운 변화를 일으킬 수 있도록 하기 위한 프로젝트입니다. 일례로, 카드사용내역으로부터 탄소배출량을 도출하여 기후위기에 대응할 수 있는 행동변화를 도출합니다.</span>
+                                굿샤일록<br/> <span>카드 사용을 통한 행동 변화</span>
                                 </div>
+                                <span>현대사회에서 사용하지 않을 수 없는 체크/선불/신용카드의 사용을 통해 개인의 행동 및 습관 변화를 유도하고, 나아가 세상에 이로운 변화를 일으킬 수 있도록 하기 위한 프로젝트입니다. 일례로, 카드사용내역으로부터 탄소배출량을 도출하여 기후위기에 대응할 수 있는 행동변화를 도출합니다.</span>
                                 
                             </div>
                         </div>
@@ -54,13 +55,13 @@ const Pricing = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="dibiz-pricing-card">
                                 <div className="pricing-header">
-                                    <h3>SERVICE 3</h3>
-                                    
+                                    <h3><i className='bx bx-check'></i>SERVICE 3</h3>
+                                    <span>맛있는 금융 소셜네트워크</span>
                                 </div>
                                 <div className="pricing-price">
-                                <span>맛있는 금융 소셜네트워크</span><br/>피낭시에<br/> <span>기분 좋은 금융디저트 한 입</span><br/><span> 피낭시에는 프랑스로 금융이라는 뜻을 지닌 디저트입니다. 19세기 프랑스에서 바쁜 금융인들을 위해 먹기 쉬운 크기로 개발된 피낭시에는, 재물운을 가져다 주는 디저트로도 불립니다. 작고 귀여운 피낭시에처럼 한 번에 하나씩, 인스타그램을 통해 쉽고 재미있는 금융지식을 전해드립니다.</span>
+                                피낭시에<br/> <span>기분 좋은 금융디저트 한 입</span>
                                 </div>
-                                
+                                <span> 피낭시에는 프랑스로 금융이라는 뜻을 지닌 디저트입니다. 19세기 프랑스에서 바쁜 금융인들을 위해 먹기 쉬운 크기로 개발된 피낭시에는, 재물운을 가져다 주는 디저트로도 불립니다. 작고 귀여운 피낭시에처럼 한 번에 하나씩, 인스타그램을 통해 쉽고 재미있는 금융지식을 전해드립니다.</span>
                                 
                             </div>
                         </div>
