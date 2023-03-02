@@ -32,7 +32,7 @@ const BlogPost = () => {
                                 <div className="blog-content">
                                     <h3>
                                         <Link to="/single-blog-1">
-                                            피낭시에(FINANCIER)는 프랑스어로 금융(FINANCE)이라는 뜻을 지닌 디저트입니다. 
+                                            새로운 금융의 패러다임, '자이낸스(ZINANCE)'를 아시나요?
                                         </Link>
                                     </h3>
                                     <div className="blog-info d-flex align-items-center">
@@ -41,7 +41,7 @@ const BlogPost = () => {
                                             <h5>FINANCIER(Colin)</h5>
                                         </div>
                                         <div className="info-date">
-                                            <span><i className='bx bxs-calendar'></i> February 3, 2023</span>
+                                            <span><i className='bx bxs-calendar'></i> March 2, 2023</span>
                                         </div>
                                     </div>
                                 </div>
@@ -58,7 +58,7 @@ const BlogPost = () => {
                                 <div className="blog-content">
                                     <h3>
                                         <Link to="/single-blog-1">
-                                        금융교육, 어떻게 하고 계신가요?
+                                        어머니, 아직도 돈 공부가 천박하다고 생각하시나요?
                                         </Link>
                                     </h3>
 
@@ -68,7 +68,7 @@ const BlogPost = () => {
                                             <h5>FINANCIER(Blair)</h5>
                                         </div>
                                         <div className="info-date">
-                                            <span><i className='bx bxs-calendar'></i> February 3, 2023</span>
+                                            <span><i className='bx bxs-calendar'></i> March 2, 2023</span>
                                         </div>
                                     </div>
                                 </div>
@@ -85,7 +85,7 @@ const BlogPost = () => {
                                 <div className="blog-content">
                                     <h3>
                                         <Link to="/single-blog-1">
-                                        세계 11번째로 ‘슈퍼리치’가 많은 한국입니다.
+                                        금융사기가 판치는 세상, 이제는 금융에도 백신이 필요하다.
                                         </Link>
                                     </h3>
 
@@ -95,7 +95,7 @@ const BlogPost = () => {
                                             <h5>FINANCIER(Ian)</h5>
                                         </div>
                                         <div className="info-date">
-                                            <span><i className='bx bxs-calendar'></i> February 3, 2023</span>
+                                            <span><i className='bx bxs-calendar'></i> March 2, 2023</span>
                                         </div>
                                     </div>
                                 </div>

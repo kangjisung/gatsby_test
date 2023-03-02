@@ -15,7 +15,7 @@ const FooterStyle2 = () => {
                             <Link to="/" className="logo">
                                 <h3>playfin</h3>
                             </Link>
-                            <p>안녕하세요</p>
+                            <p>금융을 플레이하다.</p>
 
                             <ul className="social-link">
                                 <li><a href="https://www.instagram.com/financier.official/" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
@@ -23,7 +23,36 @@ const FooterStyle2 = () => {
                             </ul>
                         </div>
                     </div>
+                    <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="single-footer-widget">
+                            <h3> </h3>
 
+                            <ul className="footer-contact-info">
+                                <li>
+                                     
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="single-footer-widget">
+                            <h3> </h3>
+
+                            <ul className="footer-contact-info">
+                                <li>
+                                     
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
                     <div className="col-lg-4 col-md-6 col-sm-6">
                         <div className="single-footer-widget">
                             <h3>Address</h3>
