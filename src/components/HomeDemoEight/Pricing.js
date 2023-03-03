@@ -16,7 +16,7 @@ const Pricing = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="dibiz-pricing-card">
                                 <div className="pricing-header">
-                                    <h3><i className='bx bx-check'></i>SERVICE 1</h3>
+                                    <h3>SERVICE 1</h3>
                                     <span>메타버스 금융생활 플랫폼</span>
                                 </div>
                                 <div className="pricing-price">
@@ -41,7 +41,7 @@ const Pricing = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="dibiz-pricing-card active">
                                 <div className="pricing-header">
-                                    <h3><i className='bx bx-check'></i>SERVICE 2</h3>
+                                    <h3>SERVICE 2</h3>
                                     <span>똑똑한 카드사용습관</span>
                                 </div>
                                 <div className="pricing-price">
@@ -55,7 +55,7 @@ const Pricing = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="dibiz-pricing-card">
                                 <div className="pricing-header">
-                                    <h3><i className='bx bx-check'></i>SERVICE 3</h3>
+                                    <h3>SERVICE 3</h3>
                                     <span>맛있는 금융 소셜네트워크</span>
                                 </div>
                                 <div className="pricing-price">

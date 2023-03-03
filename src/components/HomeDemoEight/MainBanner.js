@@ -18,14 +18,14 @@ const MainBanner = () => {
                                 
                                 <h1>아이부터 어른까지 모두가 즐기는 똑똑하고 슬기로운 금융생활</h1>
                                 <p>지루하고 어렵기만 한 금융은 이제 그만! 메타버스 금융생활 플랫폼 ‘플레이핀’에서 쉽고 재미있게 배우는 금융을 만나보세요.</p>
-                                <div className="btn-box">
+                                {/* <div className="btn-box">
                                     <a href="#">
                                         <img src={Apple}/>
                                     </a>
                                     <a href="#">
                                         <img src={Google}/>
                                     </a>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
 

@@ -21,14 +21,9 @@ const TeamMember = () => {
                             <div className="dibiz-team-card">
                                 <div className="team-image">
                                     <img src={TeamImg3} alt="image" />
-
-                                    <ul className="social-link">
-                                        
-                                        <li><a href="https://www.linkedin.com/in/youngmk19/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
                                 </div>
                                 <div className="team-content">
-                                    <h3>Ian</h3>
+                                    <h3>김영민(Ian)</h3>
                                     <span>CEO</span>
                                 </div>
                             </div>
@@ -38,14 +33,9 @@ const TeamMember = () => {
                             <div className="dibiz-team-card">
                                 <div className="team-image">
                                     <img src={TeamImg2} alt="image" />
-
-                                    <ul className="social-link">
-                                        
-                                        <li><a href="https://www.linkedin.com/in/realizer21c/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
                                 </div>
                                 <div className="team-content">
-                                    <h3>Blair</h3>
+                                    <h3>이정현(Blair)</h3>
                                     <span>COO</span>
                                 </div>
                             </div>
@@ -57,14 +47,9 @@ const TeamMember = () => {
                             <div className="dibiz-team-card">
                                 <div className="team-image">
                                     <img src={TeamImg4} alt="image" />
-
-                                    <ul className="social-link">
-                                        
-                                        <li><a href="https://www.linkedin.com/in/kangjisung/" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
                                 </div>
                                 <div className="team-content">
-                                    <h3>Colin</h3>
+                                    <h3>강지성(Colin)</h3>
                                     <span>CTO</span>
                                 </div>
                             </div>
